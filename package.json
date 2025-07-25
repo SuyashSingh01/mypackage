@@ -1,0 +1,28 @@
+{
+  "name": "encryptifier",
+  "version": "1.0.0",
+  "description": "a simple tool for encryption and decryption using aes and des",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuyashSingh01/mypackage.git"
+  },
+  "keywords": [
+    "Encode",
+    "Encryption",
+    "Decryption",
+    "Aes", "Des", "Crypto", "Security"
+  ],
+  "author": "Suyash Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuyashSingh01/mypackage/issues"
+  },
+  "homepage": "https://github.com/SuyashSingh01/mypackage#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
